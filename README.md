@@ -1,4 +1,4 @@
-# face_detaction_demo
+# face_detection_demo
 
 A new Flutter project.
 
